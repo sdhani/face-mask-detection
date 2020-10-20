@@ -1,4 +1,4 @@
 # face-mask-detection
 
 ### Project Description
-Design an algorithm that most accurately determines whether an individual is wearing a mask, not wearing a mask, or wearing a mask incorrectly. 
+Design an algorithm that most accurately determines whether an individual is wearing a face mask, not wearing a face mask, or wearing a face mask incorrectly. 
