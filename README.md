@@ -1,5 +1,6 @@
 # Face Mask Detection             
 <img align="right" src="https://github.com/sdhani/face-mask-detection/blob/master/assets/Face_Masks.jpg" width=300 height=auto>
+
 To design an algorithm that determines whether an individual is *wearing a face mask*, *not wearing a face mask*, or *wearing a face mask incorrectly*.
 
 <Related Works>
