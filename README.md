@@ -21,5 +21,5 @@ In progress, to be updated.
 - [Michelle Lucero](https://github.com/MichelleLucero)
 
 ## Links
-- [Presentation](https://github.com/sdhani/face-mask-detection/blob/master/ML%20Presentation_%20Proposal.pdf)
-- [Project Proposal](https://github.com/sdhani/face-mask-detection/blob/master/ML_Project_Proposal_Condensed.pdf)
+- [Presentation](https://github.com/sdhani/face-mask-detection/blob/master/research/proposal_presentation.pdf)
+- [Project Proposal](https://github.com/sdhani/face-mask-detection/blob/master/research/proposal_condensed.pdf)
