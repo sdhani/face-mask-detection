@@ -33,7 +33,7 @@ Best performing: Reached an accuracy of ~98% with our testing data.
 
 
 ## Conclusion
-In conclusion our best performing model was CNN, achieving 98% testing accuracy. Models that were comparable to our baseline paper underperformed. In regards to our POC and W datasets, all models also underperformed dramatically, with an emphasis on poorer results for the W dataset
+In conclusion our best performing model was CNN, achieving 98% testing accuracy. Our classifers that were comparable to our baseline paper underperformed, within a margin of 6-~15%. In regards to our POC and W datasets, all classifiers underperformed dramatically, with an emphasis on lower accuracies for the W dataset. 
 
 
 ## Contributors
