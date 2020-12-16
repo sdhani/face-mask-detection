@@ -1,1 +1,9 @@
 .DS_Store
+
+
+/flask-app/static/uploads
+/flask-app/models/cnn_2
+/flask-app/.git
+/flask-app/.gitignore
+
+
