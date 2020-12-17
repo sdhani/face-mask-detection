@@ -11,11 +11,10 @@ Use Machine Learning concepts to design several models that determine whether an
 # Overview
  
 ## Dataset
-We combined 2 different datasets together to form a three class classification. With over 17,000 images and additional images for people of color and people who are white
+We combined 2 different datasets together to form a three class classification dataset with *face mask*, *no face mask*, or *incorrect face mask wear* categories. This new dataset containes over 17,000 images. As for the dataset we used to test bias, we created a W (white) and POC (people of color) dataset. Since there was not an existing dataset available, we obtained the images for W and POC by creating our own dataset collections, each containing around 100-200 image samples. 
 
-https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset
-
-https://github.com/cabani/MaskedFace-Net
+- https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset
+- https://github.com/cabani/MaskedFace-Net
 
 ## Results
 `KNN`
