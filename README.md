@@ -46,5 +46,8 @@ In conclusion our best performing model was CNN, achieving 98% testing accuracy.
 - [Michelle Lucero](https://github.com/MichelleLucero)
 
 ## Links
-- [Presentation](https://github.com/sdhani/face-mask-detection/blob/master/research/proposal_presentation.pdf)
-- [Project Proposal](https://github.com/sdhani/face-mask-detection/blob/master/research/proposal_condensed.pdf)
+- [Presentation](https://github.com/sdhani/face-mask-detection/blob/master/Face_Mask_Detection_Presentation.pdf)
+- [Paper](https://github.com/sdhani/face-mask-detection/blob/master/research/Group7FinalProject353.pdf)
+- [Project Board](https://github.com/sdhani/face-mask-detection/blob/master/assets/FMD-Poster.png)
+
+> Dec. 2020
