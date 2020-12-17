@@ -1,5 +1,5 @@
 # Face Mask Detection             
-<img align="right" src="https://github.com/sdhani/face-mask-detection/blob/master/assets/Face_Masks.jpg" width=300 height=auto>
+<img align="right" src="https://github.com/sdhani/face-mask-detection/blob/master/assets/Face_Masks.jpg" width=500 height=auto>
 
 
 ## Description
