@@ -16,19 +16,19 @@ https://github.com/cabani/MaskedFace-Net
 
 
 ## Results
-KNN
+`KNN`
 The optimal parameters resulted in 86.7% accuracy, and performed lower when dimensionality reduction techniques were included.
 
-Decision Tree
+`Decision Tree`
 The optimal parameters resulted in 84% accuracy, and performed lower when dimensionality reduction techniques were included.
 
-SVM
+`SVM`
 Reached an accuracy of ~93% with our testing dataset.
 
-Naive Bayes
+`Naive Bayes`
 Because of naive bayes assumption and how much pixels correlate with each other, it performed with ~68% for multinomial and ~77% for Gaussian.
 
-CNN: 
+`CNN`
 Best performing: Reached an accuracy of ~98% with our testing data. 
 
 
