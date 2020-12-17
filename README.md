@@ -2,9 +2,9 @@
 <img align="right" src="https://github.com/sdhani/face-mask-detection/blob/master/assets/Face_Masks.jpg" width=500 height=auto>
 
 
-## Description
+## Objective
 
-To design an algorithm that determines whether an individual is *wearing a face mask*, *not wearing a face mask*, or *wearing a face mask incorrectly*.
+Use Machine Learning concepts to design several models that determine whether an individual is *wearing a face mask*, *not wearing a face mask*, or *wearing a face mask incorrectly*. We will use the performance metrics gathered on these models (including accuracy, precision, recall, and f1 scores) to determine which model performs the best. The models explored include KNN, Decision Trees, CNN, Naive Bayes, and SVM. To conclude our findings, we will evaluate all of our models on two distinct group datasets to examine potential biases in our models (One dataset will consist of People of Color [POC], and the other dataset will consist of White [W] indiviudals, both mentioned in greater detail below).
 
 <Related Works>
 
