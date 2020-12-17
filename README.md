@@ -1,19 +1,21 @@
 # Face Mask Detection             
 <img align="right" src="https://github.com/sdhani/face-mask-detection/blob/master/assets/Face_Masks.jpg" width=300 height=auto>
 
+
+## Description
+
 To design an algorithm that determines whether an individual is *wearing a face mask*, *not wearing a face mask*, or *wearing a face mask incorrectly*.
 
 <Related Works>
 
-
+# Overview
+ 
 ## Dataset
 We combined 2 different datasets together to form a three class classification. With over 17,000 images and additional images for people of color and people who are white
 
-https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset?
+https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset
 
 https://github.com/cabani/MaskedFace-Net
-
-
 
 ## Results
 `KNN`
@@ -33,7 +35,10 @@ Best performing: Reached an accuracy of ~98% with our testing data.
 
 
 ## Conclusion
-In conclusion our best performing model was CNN, achieving 98% testing accuracy. Our classifers that were comparable to our baseline paper underperformed, within a margin of 6-~15%. In regards to our POC and W datasets, all classifiers underperformed dramatically, with an emphasis on lower accuracies for the W dataset. 
+In conclusion our best performing model was CNN, achieving 98% testing accuracy. Models that were comparable to our baseline paper underperformed by 11-16%. In regards to our POC and W datasets, all models also underperformed dramatically, with an emphasis on poorer results for the W dataset. We suspect differences in image perspectives and dataset quality led to this disparity.
+
+## Project Poster
+<img align="right" src="https://github.com/sdhani/face-mask-detection/blob/master/assets/FMD-Poster.png" width=100% height=auto>
 
 
 ## Contributors
